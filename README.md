@@ -43,3 +43,5 @@ Segundo desafio do Bootcamp GoStack 🚀
 - [Yup](https://www.npmjs.com/package/yup)
 - [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [Insomnia](https://insomnia.rest/)
+
+![Desafio_2_FastFeet](https://user-images.githubusercontent.com/12499627/75710718-c7384600-5ca3-11ea-898c-acb7245fad93.gif)
