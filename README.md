@@ -15,7 +15,7 @@ Segundo desafio do Bootcamp GoStack 🚀
 
 <hr/>
 
-### Funcionalidade:
+### Funcionalidades:
 #### 1. Autenticação:
 - Permite que um usuário se autentique na aplicação com o e-mail e uma senha, utilizando JWT;
 - Foi utilizado seeds do sequelize para criar um usuário administrador;
