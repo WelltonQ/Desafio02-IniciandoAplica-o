@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EliasGcf/fastfeet/blob/master/.github/LogoFastFeetGoStack.png">
+  <img src="https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/.github/logo.png">
 </p>
 
 # Desafio 02
